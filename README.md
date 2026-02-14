@@ -53,3 +53,5 @@ A dynamic course discovery tool with:
 │   └── global.css          # Core resets
 └── scripts/                # Functional logic
     └── main.js             # Core interactivity
+
+# AES-AJCE
